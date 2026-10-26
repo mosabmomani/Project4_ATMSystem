@@ -3,6 +3,7 @@
 A robust, console-based ATM management system built in **C++** that simulates real-world automated teller machine operations, 
 including secure authentication, fast account transactions, and persistent file-based data storage.
 
+> **📌 Legacy Project Note:** This project represents a core milestone from my foundational C++ learning journey, built entirely using procedural programming and modular function design. It serves as one of my final procedural-based projects before advancing to Object-Oriented Programming (OOP) 
 ---
 
 ## 🚀 Features
